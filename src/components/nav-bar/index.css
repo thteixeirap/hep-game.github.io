@@ -1,0 +1,26 @@
+.NavBar {
+    background-color: #0e0e0e;
+    margin: 0px 0px 16px 0px !important;
+    padding: 0px 16px !important;
+}
+
+.NavBar .navbar-text a {
+    color:#6c757d;
+    text-decoration: none;
+}
+
+.NavBar .navbar-text a:link {
+    color: #6c757d;
+}
+
+.NavBar .navbar-text a:visited {
+    color: #6c757d;
+}
+
+.NavBar .navbar-text a:hover {
+    color: #f8f9fa;
+}
+
+.NavBar .navbar-text a:active {
+    color: #6c757d;
+}

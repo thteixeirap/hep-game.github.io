@@ -1,0 +1,11 @@
+.HEPCardModal .HEPCard {
+    margin: 0;
+    padding: 0;
+    max-width: 25rem !important;
+    width: 25rem !important;
+}
+
+.HEPCardModal .HEPCard img {
+    width: 100%;
+    height: auto;
+}

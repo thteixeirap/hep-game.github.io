@@ -1,0 +1,66 @@
+[ 
+  {
+    "nome": "Murray Gell-Mann", 
+    "imagem": "gellmann.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Gell-Mann",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Glúon", 
+    "imagem": "gluon.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Gell-Mann",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Quark Down", 
+    "imagem": "quark-down.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Gell-Mann",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Quark Up", 
+    "imagem": "quark-up.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Gell-Mann",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Paul Dirac", 
+    "imagem": "dirac.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Dirac",
+    "genio": true,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Elétron", 
+    "imagem": "eletron.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Dirac",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Mar de Dirac", 
+    "imagem": "mar-de-dirac.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Dirac",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  },
+  {
+    "nome": "Pósitron", 
+    "imagem": "positron.png",
+    "descricao": "Lorem ipsum...",
+    "deck": "Dirac",
+    "genio": false,
+    "tags": ["tag_1", "tag_2", "tag_3"]
+  }
+]

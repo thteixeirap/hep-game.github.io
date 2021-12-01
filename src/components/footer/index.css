@@ -1,0 +1,30 @@
+.Footer {
+    background-color: #0e0e0e;
+    margin: 0px;
+    padding: 10px 16px;
+    font-size: 0.75rem;
+    font-weight: normal;
+    color: #6c757d;
+}
+
+.Footer a {
+    color:#6c757d;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.Footer a:link {
+    color: #6c757d;
+}
+
+.Footer a:visited {
+    color: #6c757d;
+}
+
+.Footer a:hover {
+    color: #f8f9fa;
+}
+
+.Footer a:active {
+    color: #6c757d;
+}
