@@ -97,8 +97,6 @@ function Sobre () {
                     </div>
                 </div>
             </section>
-
-
             <section>
                 <div className='container reveal'>
                     <h2>Titulo</h2>
