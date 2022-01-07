@@ -29,13 +29,11 @@ function Decks() {
     <>
         <NavBar titulo="Decks" />
         <Container fluid>
-            <Row className="decks-row g-4 d-flex justify-content">
+            <Row className="decks-row g-4 d-flex justify-content-center">
                 {cards.map((card, idx) => (
-                    
                     <div className="decks-card" key={'card_'+idx} onClick={() => handleShow(card)}>
                         <HEPCard {...card} animar={true} />
                     </div>
-                  
                 ))}
             </Row>
             <HEPCardModal card={cardInfo} show={show} onHide={handleClose} />

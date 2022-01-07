@@ -6,30 +6,11 @@ import './index.css';
 
 
 function Sobre () {
-
-    window.addEventListener('scroll',reveal);
-
-    function reveal(){
-        var reveals = document.querySelectorAll('.reveal');
-
-        for(var i=0;i < reveals.length; i++){
-
-            var windowheight = window.innerHeight;
-            var revealtop = reveals[i].getBoundingClientRect().top;
-            var revealpoint = 150;
-
-            if(revealtop < windowheight - revealpoint){
-                reveals[i].classList.add('active');
-            }
-            else{
-                reveals[i].classList.remove('active');
-            }
-        }
-    }
     return(
     <>
-        <NavBar titulo= "Sobre" />
+        <NavBar titulo="Sobre" />
         <Container fluid>
+<<<<<<< HEAD
             <div className='body-about'>
                 <section>       
                     <div class="animated-title">
@@ -128,6 +109,9 @@ function Sobre () {
             </section>
         
         </div>
+=======
+            <p className="text-white">Em construção...</p>
+>>>>>>> parent of 213a6b0 (Página Sobre)
         </Container>
         <Footer />
     </>
