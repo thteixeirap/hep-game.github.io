@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/hep-game/hep-game.github.io)](https://github.com/hep-game/hep-game.github.io/blob/master/LICENSE) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/hep-game/hep-game.github.io) 
 
-**High Energy Physics - The Card Game** é uma proposta didático-pedagógica para o ensino de física de partículas e altas energias.
+**High Energy Physics - The Card Game** é uma proposta didático-pedagógica para o ensino de física de partículas e altas energias por meio de um jogo de cartas. Para jogar, acesse o endereço [http://hep-game.github.io/](http://hep-game.github.io/) .
 
 
 ## Colaboradores
