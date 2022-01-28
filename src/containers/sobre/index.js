@@ -53,7 +53,7 @@ function Sobre () {
                             <p>TOAQUI
                                HEP-TCG é um projeto que nasceu de projetos de iniciações científica (BIC e BICJr) e de programas de Bolsa Complementação Educacional (BCE), todos
                                produzidos no CEFETMG campus Divinópolis. O intuito é despertar o interesse de estudantes, de qualquer idade, para a física de partículas. Através
-                               um jogo de carta online, pot turnos, no estilo PVP (<it>player versus player</i>) e PVE (<it>player versus environment</i>), com diversos conceitos
+                               um jogo de carta online, pot turnos, no estilo PVP (<i>player versus player</i>) e PVE (<i>player versus environment</i>), com diversos conceitos
                                de física de partículas colocados como regras do jogo, acreditamos que é possível despertar o interesse do público por essa área da Física extremamente
                                fascinante.
                             </p>
