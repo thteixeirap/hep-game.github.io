@@ -50,19 +50,12 @@ function Sobre () {
                     <div className='cards'>
                         <div className='text-card'>
                             <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como 
-                                também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. 
-                                Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens 
-                                de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração 
-                                eletrônica como Aldus PageMakerLorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como 
-                                também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. 
-                                Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens 
-                                de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração 
-                                eletrônica como Aldus PageMaker..
+                            <p>TOAQUI
+                               HEP-TCG é um projeto que nasceu de projetos de iniciações científica (BIC e BICJr) e de programas de Bolsa Complementação Educacional (BCE), todos
+                               produzidos no CEFETMG campus Divinópolis. O intuito é despertar o interesse de estudantes, de qualquer idade, para a física de partículas. Através
+                               um jogo de carta online, pot turnos, no estilo PVP (<it>player versus player</i>) e PVE (<it>player versus environment</i>), com diversos conceitos
+                               de física de partículas colocados como regras do jogo, acreditamos que é possível despertar o interesse do público por essa área da Física extremamente
+                               fascinante.
                             </p>
                         </div>     
                     </div>
@@ -70,57 +63,61 @@ function Sobre () {
             </section>
             <section>
                 <div className='container reveal'>
-                    <h2>Titulo</h2>
+                    <h2>Produtores</h2>
                     <div className='cards'>
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>RafaMarce</h3>
+                            <p>Físico de partículas e sonhador, sempre quis ver um Magic The Gathering voltado para a ciência, e aqui estamos tentando viver o sonhor. Bacharel
+                               em Física pela UNESP - Rio Claro, mestre em física teórica pelo Insituto de Física Teórica - UNESP e doutor em física de partículas pelo Instituto
+                               de Física da USP. Professor de Física do CEFETMG, insta @rafamarce. Gosto de jogar Path of Exile, Diablo e jogos de farming infinito, além de jogos
+                               de carta.    
                             </p>
                         </div>
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>André Maravilha</h3>
+                            <p>TEXTOANDRE
+    
                             </p>
                         </div>
 
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>Savanna Campagni</h3>
+                            <p>TEXTOSAVANNA
+    
                             </p>
                         </div>
+    
+                        <div className='text-card'>
+                            <h3>Thomás Teixera</h3>
+                            <p>TEXTOTHOMAS
+    
+                            </p>
+                        </div>
+    
                     </div>
                 </div>
             </section>
             <section>
                 <div className='container reveal'>
-                    <h2>Titulo</h2>
+                    <h2>Design Artístico</h2>
                     <div className='cards'>
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>Marcela Membrive</h3>
+                            <p>TEXTOMARCELA
+    
                             </p>
                         </div>
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>Marco Túlio</h3>
+                            <p>TEXTOMARCO
+    
                             </p>
                         </div>
 
                         <div className='text-card'>
-                            <h3>Titile</h3>
-                            <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e 
-                                vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos 
-                                e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos.
+                            <h3>???</h3>
+                            <p>TEXTO???
+                            
                             </p>
                         </div>
                     </div>
