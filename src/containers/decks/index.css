@@ -1,13 +1,12 @@
 .decks-row {
     padding-bottom: 50px;
-    padding-left: 3%;
 }
 
 .decks-card {
     background-color: transparent;
     border: 0;
-    margin: 0;
-    padding: 0;
+    margin: 5px 5px;
+    padding: 5px 5px;
     max-width: 15rem !important;
     width: 15rem !important;
     cursor: pointer !important;

@@ -6,7 +6,7 @@ import './index.css';
 
 function HEPCard(props) {
 
-    const imagem = require('../../assets/cards/imagens/' + props.imagem).default;
+    const imagem = require('../../assets/cards/images/' + props.imagem).default;
 
     if (props.animar) {
         return (

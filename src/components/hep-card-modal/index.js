@@ -12,7 +12,7 @@ function HEPCardModal(props) {
     }
 
     const card = props.card;
-    const imagem = require('../../assets/cards/imagens/' + card.imagem).default;
+    const imagem = require('../../assets/cards/images/' + card.imagem).default;
 
     return (
     <Modal className="HEPCardModal" show={props.show} onHide={props.onHide} size="lg" fullscreen="lg-down" centered>
