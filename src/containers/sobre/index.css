@@ -50,7 +50,7 @@ section h2{
 }
 
 section .cards{
-    display: flex;
+    display: flex;  
 }
 
 section .cards .text-card{
@@ -153,4 +153,12 @@ p{
   animation-fill-mode: forwards;
   top: 0;
   transform: translate(0, -100%);
+}
+
+.text-card img{
+  border-radius: 50%;
+  width: 170px;
+  height: 170px;
+  margin-left: 22px;
+  margin-bottom: 25px;
 }
