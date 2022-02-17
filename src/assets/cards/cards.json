@@ -96,7 +96,7 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
-{
+  {
     "nome": "aluminio", 
     "imagem": "aluminio.png",
     "descricao": "Na natureza, dentre todos os metais, o alumínio é o mais abundante, ou seja, ele constitui cerca de 8% de toda a crosta terrestre, sendo encontrado principalmente sob a forma de bauxita. O alumínio é um metal leve, macio, porém resistente, de aspecto metálico branco, que tem um revestimento fino de um óxido. Esse óxido é não reativo e muito aderente e protege o alumínio de corrosão. Excelente condutor de calor, resistente à corrosão, tem baixa densidade, condutor de corrente elétrica, possui baixo ponto de fusão. Na indústria, é usado para fabricar latas, é usado em tintas na forma de pó de alumínio, por ser um bom condutor de eletricidade é usado em cabos suspensos. Sua leveza, resistência à corrosão e baixo ponto de fusão, lhe conferem uma multiplicidade de aplicações, especialmente na aeronáutica. Alumínio puro não tem resistência à tração alta. No entanto, com adição de elementos como manganês, silício, cobre e magnésio podem aumentar-se as propriedades de resistência do alumínio e produzir-se uma liga com propriedades sob medida para aplicações específicas.",
@@ -104,7 +104,7 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
-{
+  {
     "nome": "cobre", 
     "imagem": "cobre.png",
     "descricao": "Material amplamente utilizado para a produção de materiais condutores de eletricidade (fios e cabos) e em ligas metálicas, como latão e bronze. A maioria dos depósitos desse metal estão na forma de calcopirita. Possui alta capacidade de conduzir eletricidade, possui maleabilidade, condutividade térmica e com resistência à corrosão, elemento de cor alaranjada, pode ser encontrado de forma nativa. Um carro médio possui grande volume de fiação de cobre em sua composição. Se ela fosse contabilizada, poderia chegar a 1,5 km.",
@@ -112,7 +112,7 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
-{
+  {
     "nome": "prata", 
     "imagem": "prata.png",
     "descricao": "Elemento pouco abundante podendo ser encontrado na forma de mineral, principalmente sulfeto de prata – também conhecido como argentita. Possui cor prateada, é brilhante, maleável, dúctil e apresenta ótima condutividade elétrica. É pouco reativa e bastante resistente à corrosão. É utilizado principalmente na produção de baterias, na composição da solda e na fabricação de utensílios domésticos como talheres. É um metal maleável e flexível por tal motivo o uso é muito comum tanto na fabricação de joias como de objetos, além de ser um metal leve que facilita a produção por exemplo de grandes peças sem tornarem-nas desconfortáveis e pesadas.",
@@ -120,7 +120,7 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
-{
+  {
     "nome": "ferro", 
     "imagem": "ferro.png",
     "descricao": "Dentre os oito elementos químicos mais abundantes na crosta terrestre, o ferro figura em quarto lugar com cerca de 5% em massa. Ele é um bom condutor de calor e eletricidade, atualmente é utilizado extensivamente para a produção de aço, liga metálica para a produção de ferramentas, máquinas, veículos de transporte (automóveis, navios, etc.), como elemento estrutural de pontes, edifícios, e uma infinidade de outras aplicações. O ferro, é utilizado extensivamente para a produção de aço, liga metálica para a produção de ferramentas, máquinas, veículos de transporte (automóveis, navios, etc), como elemento estrutural de pontes, edifícios e uma infinidade de outras aplicações. - Curiosidade: Embalagens feitas de ferro oferecem proteção eficiente contra a luz, bactérias e vírus, além de outros predadores naturais como os insetos. No entanto, o ferro também oferece uma proteção mecânica quando acondiciona outros elementos: é resistente a quedas e choques em transporte, por exemplo.",
@@ -136,7 +136,7 @@
     "genio": false,
     "tags": ["tag_1", "tag_2", "tag_3"]
   },
-{
+  {
     "nome": "silicio", 
     "imagem": "silicio.png",
     "descricao": "O silício é o segundo elemento mais abundante na crosta terrestre, perfazendo mais de 28% de sua massa. Por possuir várias propriedades físico-químicas importantes, como alta resistência mecânica a altas temperaturas, ser isolante, flexível, resistir ao ataque de ácidos, bactérias, álcalis, etc., isso faz com que essa fibra seja utilizada na fabricação de telhas, tanques, em diversos produtos da construção civil e para isolar termicamente máquinas e equipamentos. Por possuir várias propriedades físico-químicas importantes, como alta resistência mecânica a altas temperaturas, ser isolante, flexível, resistir ao ataque de ácidos, bactérias, álcalis, etc., isso faz com que essa fibra seja utilizada na fabricação de telhas, tanques, em diversos produtos da construção civil e para isolar termicamente máquinas e equipamentos. O silício é um elemento vital em numerosas indústrias. O dióxido de silício, areia e argila são importantes constituintes do concreto armado e azulejos (ladrilhos), sendo empregadas na produção do cimento Portland e como elemento de liga em fundições. Esse silício ultrapuro é importante para a fabricação de semicondutores para uso em equipamentos eletrônicos, tais como: - Diodos - Transistores - Microprocessadores",
