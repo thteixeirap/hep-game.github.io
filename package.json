@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "High Energy Physics - The Card Game é uma proposta didático-pedagógica para o ensino de física de partículas e altas energias.",
-  "homepage": "https://thteixeirap.github.io/",
+  "homepage": "https://hep-game.github.io/",
   "keywords": [
     "ensino",
     "física",
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thteixeirap/hep-game.github.io.git"
+    "url": "git+https://github.com/hep-game/hep-game.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/thteixeirap/hep-game.github.io/issues"
+    "url": "https://github.com/hep-game/hep-game.github.io/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
